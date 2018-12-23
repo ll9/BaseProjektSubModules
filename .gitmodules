@@ -1,0 +1,3 @@
+[submodule "Submodules/ExcelImporter"]
+	path = Submodules/ExcelImporter
+	url = https://github.com/ll9/ExcelImportSubModules.git

@@ -9,3 +9,6 @@ Submodule erstes mal pull:
 
 Submodule Update:
 `git submodule update --recursive --remote`
+
+Submodule entfernen:
+https://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue
